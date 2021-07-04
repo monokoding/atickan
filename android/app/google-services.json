@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890995109616",
+    "project_id": "atickan-7bc38",
+    "storage_bucket": "atickan-7bc38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890995109616:android:57326f9d905891b0539c35",
+        "android_client_info": {
+          "package_name": "com.example.atickan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890995109616-5lngbp5k1f5j621su90bbdkunhog4gn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcCVz7oBLGaIWpDz0fJInOiCsuD9thP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890995109616-5lngbp5k1f5j621su90bbdkunhog4gn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
